@@ -1,1 +1,4 @@
+---
+layout: default
+---
 # Alessandro Pucci
