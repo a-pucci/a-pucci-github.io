@@ -12,7 +12,7 @@ I'm a Unity 3D game developer and i'm attending the third year at [TheSign Comic
 
     Project created First Year of Game Dev School
 
-* [Nuke Alarm](https://github.com/a-pucci/Nuke_Alarm)
+* [Nuke Alarm](https://gitlab.com/Snogard/NukeAlarmm)
 
     Project created Second Year of Game Dev School
 
