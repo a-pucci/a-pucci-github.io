@@ -15,7 +15,7 @@ You have to find all machine's gears spread in these two worlds.
 
 <img src="./Images/the_greatest_show.png" width="200"> 
 
-## [Nuke Alarm](https://gitlab.com/Snogard/NukeAlarm)
+## [Nuke Alarm](https://gitlab.com/a-pucci/NukeAlarm)
 
 Puzzle game where you are president's secretary.
 You have to find out if recieved threats are real or fake trying to avoid a nuclear war.
