@@ -6,26 +6,33 @@ layout: default
 
 I'm a Unity 3D game developer and i'm attending the third year at [TheSign Comics & Arts Academy](https://thesign.academy/) in Florence.
 
-# Projects
+# Games
 
-* [The Greatest Show](https://github.com/a-pucci/The_Greatest_Show)
+ ## [The Greatest Show](https://github.com/a-pucci/The_Greatest_Show)
 
-<img src="https://github.com/a-pucci/a-pucci.github.io/tree/master/Images/the_greatest_show.png" width="250">
+2D puzzle game where you are a puppet able of switching between two worlds.
+You have to find all machine's gears spread in these two worlds.
 
-    Project created First Year of Game Dev School
+<img src="./images/the_greatest_show.png" width="200"> 
 
-* [Nuke Alarm](https://gitlab.com/Snogard/NukeAlarm)
+## [Nuke Alarm](https://gitlab.com/Snogard/NukeAlarm)
 
-    Project created Second Year of Game Dev School
+Puzzle game where you are president's secretary.
+You have to find out if recieved threats are real or fake trying to avoid a nuclear war.
 
-* [Trip Tennis Tournament](https://gitlab.com/Calosi/triptennistournament)
+<img src="./images/nuke_alarm.png" width="200">
 
-    Project joined Third Year of Game Dev School
+## [Trip Tennis Tournament](https://gitlab.com/Calosi/triptennistournament)
 
-* [Arduino Projects](https://github.com/a-pucci/Arduino_Projects)
-    
-    Personal projects using Arduino MKR1000
+Competitive local multiplayer game based on tennis in a vaporwawe atmosphere.
 
+<img src="./images/trip_tennis_tournament.png" width="200">
+
+---
+
+## Other Projects
+
+- [**Arduino**](https://github.com/a-pucci/Arduino_Projects) Projects using Arduino MKR1000
 
 # Contacts
 
