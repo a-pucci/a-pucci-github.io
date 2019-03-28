@@ -10,8 +10,7 @@ I'm a Unity 3D game developer and i'm attending the third year at [TheSign Comic
 
 * [The Greatest Show](https://github.com/a-pucci/The_Greatest_Show)
 
-![](./Images/the_greatest_show.png =200x200)
-[[https://github.com/a-pucci/a-pucci.github.io/Images/the_greatest_show.png = 250x]]
+<img src="https://github.com/a-pucci/a-pucci.github.io/Images/the_greatest_show.png" width="250">
 
     Project created First Year of Game Dev School
 
