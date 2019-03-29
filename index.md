@@ -17,7 +17,7 @@ You have to find all machine's gears spread in these two worlds.
 
 [GitHub](https://github.com/a-pucci/The_Greatest_Show)
 
-Build: <a href="d./Builds/the_greatest_show_build.rar" download>windows</a>
+Build: <a href="./Builds/the_greatest_show_build.rar" download>windows</a>
 
 ## Nuke Alarm
 
@@ -28,7 +28,7 @@ You have to find out if recieved threats are real or fake trying to avoid a nucl
 
 [GitLab](https://gitlab.com/a-pucci/NukeAlarm)
 
-Build: <a href="d./Builds/nuke_alarm_build.rar" download>windows</a>
+Build: <a href="./Builds/nuke_alarm_build.rar" download>windows</a>
 
 
 ## Trip Tennis Tournament
@@ -39,7 +39,7 @@ Competitive local multiplayer game based on tennis in a vaporwawe atmosphere.
 
 [GitLab](https://gitlab.com/Calosi/triptennistournament)
 
-Build: <a href="d./Builds/trip_tennis_tournament_build.rar" download>windows</a>
+Build: <a href="./Builds/trip_tennis_tournament_build.rar" download>windows</a>
 
 ---
 
