@@ -61,3 +61,4 @@ Build: <a href="./Builds/trip_tennis_tournament_build.rar" download>windows</a>
 
 * Email: <a_pucci@hotmail.it> - or - <alessandro.pucci1990@gmail.com>
 * GitHub: <https://github.com/a-pucci>
+* GitLab: <https://gitlab.com/a-pucci>
