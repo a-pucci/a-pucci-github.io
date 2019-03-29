@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# <font color=steelblue>About Me</font>
+# About Me
 
 I'm a Unity 3D game developer and i'm attending the third year at [TheSign Comics & Arts Academy](https://thesign.academy/) in Florence.
 
-# <font color=steelblue>Games</font>
+# Games
 ---
 ## The Greatest Show
 
@@ -21,6 +21,8 @@ Build: <a href="d./Builds/the_greatest_show_build.rar" download>windows</a>
 
 ## Nuke Alarm
 
+<img src="./Images/nuke_alarm.png" width="200">
+
 Puzzle game where you are president's secretary.
 You have to find out if recieved threats are real or fake trying to avoid a nuclear war.
 
@@ -28,7 +30,6 @@ You have to find out if recieved threats are real or fake trying to avoid a nucl
 
 Build: <a href="d./Builds/nuke_alarm_build.rar" download>windows</a>
 
-<img src="./Images/nuke_alarm.png" width="200">
 
 ## Trip Tennis Tournament
 
@@ -42,13 +43,13 @@ Build: <a href="d./Builds/trip_tennis_tournament_build.rar" download>windows</a>
 
 ---
 
-# <font color=steelblue>Other Projects</font>
+# Other Projects
 
 - [**Arduino**](https://github.com/a-pucci/Arduino_Projects) Projects using Arduino MKR1000
 
 ---
 
-# <font color=steelblue>Contacts</font>
+# Contacts
 
 * Email: <a_pucci@hotmail.it> - or - <alessandro.pucci1990@gmail.com>
 * GitHub: <https://github.com/a-pucci>
