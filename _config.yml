@@ -54,7 +54,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Unity3D Game Developer"
 
-//me-img: "/img/jetpacktocat.png"
+# me-img: "/img/photo2.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
