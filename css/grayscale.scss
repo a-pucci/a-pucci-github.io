@@ -310,6 +310,13 @@ a {
 .game-section {
     margin-top: 100px;
 	margin-bottom: 250px;
+	img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+        margin: 15px;
+        border: 2px solid $font-color;
+    }
 	}
 .parallax {
 
