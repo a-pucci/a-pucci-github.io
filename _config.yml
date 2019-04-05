@@ -96,11 +96,18 @@ icon-192p: "/img/web-app/icon-192p.png"
 ############
 
 events:
+  - date: "November 2018 - Today"
+    description: "Trip Tennis Tournament"
+    image: "/img/timeline/tripTennisTournament.jpg"
+  - date: "November 2017 - September 2018"
+    description: "Nuke Alarm"
+    image: "/img/timeline/nukeAlarm.jpg"
+  - date: "January 2017 - July 2018"
+    description: "The Greatest Show"
+    image: "/img/timeline/theGreatestShow.jpg"
   - date: "November 2016 - Today"
     description: "Event Horizon School"
     image: "/img/timeline/eventHorizon.jpg"
-#    date: "September 2007 - August 2013"
-#    description: "Started coding"
 
 # First image of the Timeline
 
