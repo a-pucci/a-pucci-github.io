@@ -308,10 +308,12 @@ a {
 /* Added in { Personal } */
 
 .game-section-left {
-    margin-top: 100px;
-	  margin-bottom: 260px;
+    margin-top: 80px;
+	  margin-bottom: 250px;
   	img {
-          margin:0 auto;
+          margin-left: auto;
+          margin-right: auto;
+          margin-bottom:30px;
           display: block;
           max-width: 100%;
           border: 2px solid $font-color;
@@ -319,7 +321,8 @@ a {
           @media (min-width:768px){
             float: left;
             height: auto;
-            margin: 15px;
+            margin-right: 40px;
+            margin-bottom: 0px;
             width: 500px;
           }
     }
@@ -329,7 +332,9 @@ a {
       margin-top: 100px;
   	  margin-bottom: 260px;
     	img {
-            margin:0 auto;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom:30px;
             display: block;
             max-width: 100%;
             border: 2px solid $font-color;
@@ -337,8 +342,9 @@ a {
             @media (min-width:768px){
               float: right;
               height: auto;
-              margin: 15px;
               width: 500px;
+              margin-left: 40px;
+              margin-bottom: 0px;
             }
       }
   	}
@@ -347,7 +353,7 @@ a {
 
   background-image: url("../img/bg.png");
 
-  min-height: 200px;
+  min-height: 150px;
 
   background-attachment: fixed;
   background-position: center;
