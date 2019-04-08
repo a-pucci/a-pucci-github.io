@@ -235,7 +235,7 @@ a {
 }
 
 .content-section {
-    margin-top: 50px;
+  margin-top: 50px;
 	margin-bottom: 200px;
     padding-top: 50px;
     @media(min-width:767px) {
@@ -307,23 +307,48 @@ a {
 
 /* Added in { Personal } */
 
-.game-section {
+.game-section-left {
     margin-top: 100px;
-	margin-bottom: 260px;
-	img {
-        display: block;
-        max-width: 100%;
-        height: auto;
-        margin: 15px;
-        border: 2px solid $font-color;
+	  margin-bottom: 260px;
+  	img {
+          margin:0 auto;
+          display: block;
+          max-width: 100%;
+          border: 2px solid $font-color;
+          float: none;
+          @media (min-width:768px){
+            float: left;
+            height: auto;
+            margin: 15px;
+            width: 500px;
+          }
     }
 	}
+
+  .game-section-right {
+      margin-top: 100px;
+  	  margin-bottom: 260px;
+    	img {
+            margin:0 auto;
+            display: block;
+            max-width: 100%;
+            border: 2px solid $font-color;
+            float: none;
+            @media (min-width:768px){
+              float: right;
+              height: auto;
+              margin: 15px;
+              width: 500px;
+            }
+      }
+  	}
+
 .parallax {
 
   background-image: url("../img/bg.png");
 
-  min-height: 200px; 
-  
+  min-height: 200px;
+
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
