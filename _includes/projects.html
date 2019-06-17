@@ -1,14 +1,6 @@
-
-<!-- Projects Start -->
-<section id="{{ page.section-type }}">
-<div class="text-image">
-<div class="parallax"></div><div class="centered"><h1> PROJECTS </h1></div>
+<div class="container projects-container">
+  <h3>{{ site.projects_title | default: "Projects" }}</h3>
+  {% for project in site.data.projects %}
+    {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
+  {% endfor %}
 </div>
-<div class="container">
-
-      {{ page.content }}
-
-  </div>
-</section>
-
-<!-- Projects End -->

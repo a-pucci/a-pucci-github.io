@@ -1,0 +1,20 @@
+- layout: left
+  name: Event Horizon – School of Digital Arts
+  dates: 2016 - 2019
+  qualification: Game Programming
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    During my time attending this school I learnt to work with Unity3D engine, to use programming best practices, to work with Git.
+
+    I also developed some key skills useful in game development such as teamwork and working to tight deadlines.
+
+
+- layout: left
+  name: Siena University
+  dates: 2010 - 2013
+  qualification: Computer Science
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    Even if I didn't finish University, I attended courses of Algorithm and Data Structures, Algebra, Math, Programming. 
