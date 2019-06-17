@@ -9,6 +9,9 @@
   description: | # this will include new lines to allow paragraphs
     Competitive local multiplayer game based on tennis in a vaporwawe atmosphere.
 
+    I joined this project the third year of Event Horizon school.
+    I helped rewrite the old code, creating a new code architecture using UML and I understood what means joining a new team and a work in progress project.
+
 - layout: left
   name: Nuke Alarm
   dates: 11/2017 - 09/2018
@@ -21,14 +24,18 @@
     Puzzle game where you are president's secretary.
     You have to find out if recieved threats are real or fake trying to avoid a nuclear war.
 
-- layout: left
-  name: The Greatest Show
-  dates: 01/2017 - 07/2017
-  #link: #github.com/a-pucci/The_Greatest_Show
-  screen: /images/screens/the_greatest_show.png
-  github: a-pucci/The_Greatest_Show
-  quote: >
+    Project created during second year of Game Development School.
+    I learnt the use of Scriptable Objects and started developed teamwork skill and starting to learn to working with deadlines.
 
-  description: | # this will include new lines to allow paragraphs
-    2D puzzle game where you are a puppet able of switching between two worlds.
-    You have to find all machine's gears spread in these two worlds.
+
+#- layout: left
+#  name: The Greatest Show
+#  dates: 01/2017 - 07/2017
+#  #link: #github.com/a-pucci/The_Greatest_Show
+#  screen: /images/screens/the_greatest_show.png
+#  github: a-pucci/The_Greatest_Show
+#  quote: >
+#
+#  description: | # this will include new lines to allow paragraphs
+#    2D puzzle game where you are a puppet able of switching between two worlds.
+#    You have to find all machine's gears spread in these two worlds.
