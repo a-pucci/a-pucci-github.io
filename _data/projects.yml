@@ -5,9 +5,10 @@
   screen: /images/screens/trip_tennis_tournament.png
   github: TheSignAcademy/cu1819_ttt_U3D
   quote: >
+    Competitive local multiplayer game based on tennis in a vaporwawe atmosphere.
 
   description: | # this will include new lines to allow paragraphs
-    Competitive local multiplayer game based on tennis in a vaporwawe atmosphere.
+    This 3D game is ispired by '80s culture, the Golden Era of tennis.
 
     I joined this project the third year of Event Horizon school.
     I helped rewrite the old code, creating a new code architecture using UML and I understood what means joining a new team and a work in progress project.
@@ -19,9 +20,10 @@
   screen: /images/screens/nuke_alarm.png
   gitlab: a-pucci/NukeAlarm
   quote: >
+    Puzzle game where you are president's secretary.
 
   description: | # this will include new lines to allow paragraphs
-    Puzzle game where you are president's secretary.
+    It's a 2D game wich take ispiration by "Papers, Please".
     You have to find out if recieved threats are real or fake trying to avoid a nuclear war.
 
     Project created during second year of Game Development School.

@@ -50,9 +50,18 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Some of my other interests and hobbies are:
-   - Playing guitar
-   - Gaming
-   - Arduino
+
+  - Playing guitar
+
+  I've been playing guitar since i was 18 years old.
+  Studying this instrument helped me increase my focus, since i had to do repetitive excercises for hours, and playing in a band was usefull in overcoming my shyness.
+
+  - Arduino
+
+  One of my interests is Arduino and automation. My first project was a sort of domotics for my bedroom where i could control all the room lights from an app.
+
+  [Arduino Projects](https://github.com/a-pucci/Arduino_Projects){:target="_blank"}
+
 
 # Footer
 footer_show_references: true
