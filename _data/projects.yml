@@ -30,14 +30,14 @@
     I learnt the use of Scriptable Objects and started developed teamwork skill and starting to learn to working with deadlines.
 
 
-#- layout: left
-#  name: The Greatest Show
-#  dates: 01/2017 - 07/2017
-#  #link: #github.com/a-pucci/The_Greatest_Show
-#  screen: /images/screens/the_greatest_show.png
-#  github: a-pucci/The_Greatest_Show
-#  quote: >
-#
-#  description: | # this will include new lines to allow paragraphs
-#    2D puzzle game where you are a puppet able of switching between two worlds.
-#    You have to find all machine's gears spread in these two worlds.
+- layout: left
+  name: The Greatest Show
+  dates: 01/2017 - 07/2017
+  #link: #github.com/a-pucci/The_Greatest_Show
+  screen: /images/screens/the_greatest_show.png
+  github: a-pucci/The_Greatest_Show
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    2D puzzle game where you are a puppet able of switching between two worlds.
+    You have to find all machine's gears spread in these two worlds.
