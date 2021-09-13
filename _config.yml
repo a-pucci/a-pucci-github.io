@@ -4,21 +4,21 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Alessandro Pucci
-title: Unity3D Developer
+title: Unity Developer
 email: a_pucci@hotmail.it
 phone: "+393476670548"
 # website: a-pucci.it
-curriculum: a_pucci_cv.pdf
+# curriculum: a_pucci_cv.pdf
 
 # Social links
 twitter_username: a_pucci90
 github_username:  a-pucci
 gitlab_username: a-pucci
+linkedin_username: a-pucci
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-# linkedin_username: a-pucci
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
@@ -27,7 +27,7 @@ gitlab_username: a-pucci
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-      Hi, my name is Alessandro Pucci and i am a Unity3D developer.
+      Hi, my name is Alessandro Pucci and i am a Unity developer.
 
       I grew up with a SNES controller in my hands playing Donkey Kong and getting fascinated about videogames.
 
@@ -37,7 +37,9 @@ about_content: | # this will include new lines to allow paragraphs
       
       In 2019 I completed the studies with a final grade of 30/30.
       
-      Currently I am working as Game Programming assistant professor at [TheSign Comics & Arts Academy](https://thesign.academy/){:target="_blank"}, a partner of Event Horizon School in Florence.
+      I worked as Game Programming teacher assistant at [TheSign Comics & Arts Academy](https://thesign.academy/){:target="_blank"} for 2 years.
+
+      Currently I am collaborating with [CINIC Games](https://cinicgames.com/) on [Extra Coin](https://store.steampowered.com/app/1290980/Extra_Coin/) project.
 
 # Projects Section
 # projects_title: Projects

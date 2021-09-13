@@ -37,6 +37,13 @@
         </a>
       </p>
     {%- endif -%}
+    {%- if include.item.steam -%}
+      <p class="no-print">
+        <a href="https://store.steampowered.com/{{ include.item.steam }}" target="_blank">
+          <i class="fa fa-steam" title="{{ include.item.name }} Steam link"></i>
+        </a>
+      </p>
+    {%- endif -%}
   </div>
 </div>
 <hr>

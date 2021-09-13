@@ -1,22 +1,30 @@
 - layout: left
+  name: Extra Coin
+  dates: 09/2019 - in progress
+  screen: /images/screens/extra_coin.png
+  steam: app/1290980/Extra_Coin/
+  quote: > 
+    Arcade game with a narrative imprint.
+
+  description: | # this will include new lines to allow paragraphs
+    Extra Coin is a unique game with heavy adventure and exploration elements in which your choice matters! Dive into The Arcade: explore the virtual world, challenge your foes in exciting matches, choose your friends, customize your character stats, game style and design and reach the top!
+
+- layout: left
   name: Trip Tennis Tournament
   dates: 11/2018 - 09/2019
-  #link: #github.com/TheSignAcademy/cu1819_ttt_U3D
   screen: /images/screens/trip_tennis_tournament.png
   github: a-pucci/TTT_scripts
   quote: >
     Competitive local multiplayer game based on tennis in a vaporwawe atmosphere.
 
   description: | # this will include new lines to allow paragraphs
-    This 3D game is ispired by '80s culture, the Golden Era of tennis.
+    This 3D arcade game is ispired by '80s culture, the Golden Era of tennis. 
+    You have to defeat your opponent by hitting his wall.
 
-    I joined this project the third year of Event Horizon school.
-    I helped rewrite the old code, creating a new code architecture using UML and I understood what means joining a new team and a work in progress project.
 
 - layout: left
   name: Nuke Alarm
   dates: 11/2017 - 09/2018
-  #link: #gitlab.com/a-pucci/NukeAlarm
   screen: /images/screens/nuke_alarm.png
   gitlab: a-pucci/nuke_alarm
   quote: >
@@ -24,16 +32,12 @@
 
   description: | # this will include new lines to allow paragraphs
     It's a 2D game wich take ispiration by "Papers, Please".
-    You have to find out if recieved threats are real or fake trying to avoid a nuclear war.
-
-    Project created during second year of Game Development School.
-    I learnt the use of Scriptable Objects and started developed teamwork skill and starting to learn to working with deadlines.
+    You have to find out if recieved threats are real or fake trying to avoid a nuclear war. 
 
 
 - layout: left
   name: The Greatest Show
   dates: 01/2017 - 07/2017
-  #link: #github.com/a-pucci/The_Greatest_Show
   screen: /images/screens/the_greatest_show.png
   github: a-pucci/The_Greatest_Show
   quote: >
