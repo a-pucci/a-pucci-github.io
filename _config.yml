@@ -8,7 +8,7 @@ title: Unity Developer
 email: a_pucci@pm.me
 phone: "+393476670548"
 # website: a-pucci.it
-# curriculum: a_pucci_cv.pdf
+curriculum: assets/a_pucci_cv.pdf
 
 # Social links
 twitter_username: a_pucci90
@@ -39,7 +39,9 @@ about_content: | # this will include new lines to allow paragraphs
       
       I worked as Game Programming teacher assistant at [TheSign Comics & Arts Academy](https://thesign.academy/){:target="_blank"} for 2 years.
 
-      Currently I am collaborating with [CINIC Games](https://cinicgames.com/) on [Extra Coin](https://store.steampowered.com/app/1290980/Extra_Coin/) project.
+      I collaborated with [CINIC Games](https://cinicgames.com/) on [Extra Coin](https://store.steampowered.com/app/1290980/Extra_Coin/) project.
+
+      Currently I am working at [Bytwice s.r.l](https://bytwice.com/), a company specialized in developing applications and video games in the mobile environment.
 
 # Projects Section
 # projects_title: Projects

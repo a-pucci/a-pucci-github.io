@@ -1,12 +1,34 @@
 - layout: left
-  company: CINIC Games
-  link: cinicgames.com
-  job_title: Junior Programmer
-  dates: October 2019 - Present
+  company: Bytwice s.r.l.
+  link: bytwice.com
+  job_title: Unity Programmer
+  dates: December 2021 - Present
   quote: >
 
   description: | # this will include new lines to allow paragraphs
-    Worked on Extra Coin Project. Implemented UI, Gameplay mechanics, created editor Tools for improving working and testing pipelines.
+
+    Improved the management of an internal framework through <b>refactoring</b> and division into Unity Packages.<br/>
+    Updated already published apps, enhancing both <b>performance</b> and <b>memory management</b>.<br/>
+    Integrated <b>Unity Gaming Services</b> into some already published apps.<br/>
+    Developed an online <b>multiplayer</b> project using Mirror for networking and Gamelift for server hosting.<br/>
+    Ported a previously published game from mobile stores to <b>Nintendo Switch</b>.<br/>
+    Developed an <b>AR</b> app for an external client.<br/>
+    Created tools through <b>editor scripting</b> to speed up and automate the development pipeline.<br/>
+    Created a tool in <b>Swift</b> for MacOS for uploading app metadata and assets to the Apple AppStore.<br/>
+
+- layout: left
+  company: CINIC Games
+  link: cinicgames.com
+  job_title: Unity Programmer
+  dates: October 2019 - December 2021
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    Implemented <b>gameplay</b> mechanics based on the Game Design Document (GDD).<br/>
+    Implemented <b>UI</b> based on wireframes and mockups. Developed a custom scripting language.<br/>
+    Implemented <b>custom physics</b> for the main game mechanic.<br/>
+    Designed and developed <b>tools within the Unity editor</b> for both Testing and QA purposes, as well as to enhance and streamline the workflow pipeline.<br/>
+    Created <b>tools outside of the Unity editor</b> using WindowsForms and JavaScript scripts for the FMOD editor.<br/>
 
 - layout: left
   company: TheSign Comics & Arts Academy
@@ -16,6 +38,6 @@
   quote: >
 
   description: | # this will include new lines to allow paragraphs
-    I taught Game Design Patterns, Editor Scripting and Networking using Unity engine.
-    Tool programming using Windows Forms.
-    FMOD scripting using JavaScript.
+    Instructor for practical laboratory sessions.<br/>
+    I taught Game Design Patterns, Editor Scripting and Networking using Unity engine.<br/>
+    Conducted lessons on Tool Programming with WindowsForms and scripting in FMOD with JavaScript.<br/>
