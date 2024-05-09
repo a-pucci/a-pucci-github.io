@@ -6,9 +6,8 @@
 
   description: | # this will include new lines to allow paragraphs
 
-     During my time attending this school I learnt programming in Unity engine, best practices, optimizations, and to work with Git.
-
-     I also developed some key skills useful in game development such as teamwork, communication and working with milestones.
+     During my time attending this school I learnt programming in Unity engine, best practices, optimizations, and to work with Git.<br/>
+     I also developed some key skills useful in game development such as teamwork, communication and working with milestones.<br/>
 
 
 - layout: left
@@ -18,6 +17,5 @@
   quote: >
 
   description: | # this will include new lines to allow paragraphs
-     Although I didn't complete my studies at University, I spent 2 years attending courses.
-
-     I learnt the principles of Programming, and attended courses of Algorithms, Data Structures, Operating System.
+     Although I didn't complete my studies at University, I spent 2 years attending courses.<br/>
+     I learnt the principles of Programming, and attended courses of Algorithms, Data Structures, Operating System.<br/>
